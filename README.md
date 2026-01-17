@@ -1,4 +1,4 @@
-# 💀 MicrosoftNetworkingServices – Totally-Not-Suspicious Reverse Shell (C)
+# MicrosoftNetworkingServices – Totally-Not-Suspicious Reverse Shell (C)
 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
